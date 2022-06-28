@@ -1,0 +1,7 @@
+a.out
+hello
+hello.c
+hello2.c
+ls.txt
+main.c
+ubuntu
